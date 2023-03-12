@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**aGarciaBoggiano/aGarciaBoggiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Andreina Garcia Boggiano</h1>
 <h3 align="center">I'm a dentist, but right now I am rebranding myself as professional reconversion towards Big Data.</h3>
 
