@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python | Tableau | SQL |  POSTMAN | Jira**
 
-- 📫 How to reach me **ninagboggiano@gmail.com**
+- 📫 How to reach me **ninagboggiano@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
