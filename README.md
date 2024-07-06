@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andreina Garcia Boggiano</h1>
 <h3 align="center">I'm a dentist, but right now I am rebranding myself as professional reconversion towards QA tester.</h3>
-
 - 🌱 I’m currently learning **Python | Tableau | SQL |  POSTMAN | Jira**
-
 - 📫 How to reach me **ninagboggiano@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
